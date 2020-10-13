@@ -84,10 +84,10 @@ ___________________________________________
 
 Have a question or want to work together? 
 
+**Email:** vlcabrera92@hotmail.com
+
 <a href="https://www.linkedin.com/in/victorialauracabrera/" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/victorialauracabrera/" height="30" width="40" /></a>
-
-**Email:** [vlcabrera92@hotmail.com](vlcabrera92@hotmail.com)
 
 
 
