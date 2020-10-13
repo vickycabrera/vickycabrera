@@ -87,8 +87,8 @@ Have a question or want to work together?
 <a href="https://www.linkedin.com/in/victorialauracabrera/" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/victorialauracabrera/" height="30" width="40" /></a>
 
-<a href="vlcabrera92@hotmail.com" target="blank">
-<img align="center" src="https://cdn4.iconfinder.com/data/icons/aiga-symbol-signs/439/aiga_mail-512.png" alt="vlcabrera92@hotmail.com" height="30" width="35" /></a>
+**Email:** [vlcabrera92@hotmail.com](vlcabrera92@hotmail.com)
+
 
 
 
