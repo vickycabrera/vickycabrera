@@ -8,7 +8,7 @@
 ### Phychologist, Full stack web developer* 
 *Also video game lover
 
-The part that enjoy the most of a project is when I am listening to the client and the vision they have of their product. Also enjoy giving it a really cool view!
+The part that enjoy the most of a project is when I am listening to the client and the vision they have of their product. Also love giving it a really cool view!
 
 
 ## Checkout my work
