@@ -10,7 +10,7 @@
 
 The part that enjoy the most of a project is when I am listening to the client and the vision they have of their product. Also love giving it a really cool view!
 
-
+[![Vicky's github stats](https://github-readme-stats.vercel.app/api?username=vickycabrera)](https://github.com/vickycabrera/github-readme-stats)
 
 ## Checkout my work
 👇
@@ -50,8 +50,8 @@ React - Redux - Material UI - NodeJS- Express - PostgreSQL - Passport
 
 ## ⚡Languages and Tools:
 
-<p align="left"> 
 
+<p align="left"> 
 - <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
 
 - <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> 
