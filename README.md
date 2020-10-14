@@ -10,7 +10,7 @@
 
 The part that enjoy the most of a project is when I am listening to the client and the vision they have of their product. Also love giving it a really cool view!
 
-[![Vicky's github stats](https://github-readme-stats.vercel.app/api?username=vickycabrera)](https://github.com/vickycabrera/github-readme-stats)
+[![Vicky's github stats](https://github-readme-stats.vercel.app/api?username=vickycabrera&show_icons=true&theme=synthwave)](https://github.com/vickycabrera/github-readme-stats)
 
 ## Checkout my work
 👇
