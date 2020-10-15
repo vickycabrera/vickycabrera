@@ -25,10 +25,10 @@ ____________________
 🚀 Technologies: 
 React - Redux - Bootstrap - NodeJS- Express - PostgreSQL - Passport
 
-<img width= "400px" src='producto.png' />
-<img width= "400px" src='productos.png' />
-<img width= "400px" src='carrito.png' />
-<img width= "400px" src='tablaordenes.png' />
+<img align="left"  width= "350px" src='producto.png' />
+<img align="center" width= "350px" src='productos.png' />
+<img align="left" width= "350px" src='carrito.png' />
+<img align="center"width= "350px" src='tablaordenes.png' />
 
 ____________
 
@@ -41,10 +41,10 @@ React - Redux - Material UI - NodeJS- Express - PostgreSQL - Passport
 
 🎨 Mock-up: Adobe XD
 
-<img width= "400px" src='login.png' />
-<img width= "400px" src='editarperfil.png' />
-<img width= "400px" src='herramientas.png' />
-<img width= "400px" src='alumnos.png' />
+<img align="left" width= "350px" src='login.png' />
+<img align="center" width= "350px" src='editarperfil.png' />
+<img align="left" width= "350px" src='herramientas.png' />
+<img align="center" width= "350px" src='alumnos.png' />
 <!-- <img width= "400px" src='seleccionarpm.png' />
 <img width= "400px" src='mail.png' /> -->
 
